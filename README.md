@@ -21,7 +21,7 @@ For each part, you are provided with a tsv file containing the expected pairs fo
 
 
 
-## Part A (14%
+## Part A (14%)
 
 * In partA.foma, define a named network called IPA. The upper side of this network should allow strings made up of letters from the Klingon alphabet. The network should map Klingon letters to their IPA equivalents. Any symbols not in the Klingon alphabet should map to themselves. Tokenization must be implemented such that the sequence 'ngh' maps to 'nɣ' not 'ŋh'. See alphabet.tsv.
 
